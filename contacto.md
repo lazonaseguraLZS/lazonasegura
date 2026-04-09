@@ -14,7 +14,7 @@ Si tienes alguna consulta sobre observaciones preventivas, gestión de incidente
     </div>
     <p class="contact-card__label">Correo electrónico</p>
     <p class="contact-card__value">
-      <a href="mailto:contacto@lazonasegura.es">contacto@lazonasegura.es</a>
+      <a href="mailto:healthsafety60@gmail.com">healthsafety60@gmail.com</a>
     </p>
   </div>
 
@@ -47,7 +47,7 @@ Si tienes alguna consulta sobre observaciones preventivas, gestión de incidente
 ¡Por supuesto! Nuestros contenidos están pensados para ser aplicados directamente. Solo te pedimos que menciones la fuente.
 
 **¿Ofrecéis servicios de consultoría en seguridad?**
-Sí. Si necesitas asesoramiento profesional en gestión de riesgos, implantación de programas de OPS, investigación de incidentes o diseño de planes de formación, escríbenos a [contacto@lazonasegura.es](mailto:contacto@lazonasegura.es).
+Sí. Si necesitas asesoramiento profesional en gestión de riesgos, implantación de programas de OPS, investigación de incidentes o diseño de planes de formación, escríbenos a [healthsafety60@gmail.com](mailto:healthsafety60@gmail.com).
 
 **¿Los artículos sustituyen al servicio de prevención?**
 No. Nuestros artículos son informativos y de carácter técnico-divulgativo. La gestión de la prevención de riesgos laborales debe realizarse por profesionales cualificados conforme a la normativa vigente.
